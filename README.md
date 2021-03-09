@@ -6,12 +6,12 @@ This app helps users easily convert text images to text files.
 
 ## Contribtions
 
-###For Progress Report 1
+### For Progress Report 1
 1. Made a GitHub Repository (sd17d, vv18d)
 2. Made an Android Project (sd17d, vv18d)
 3. Made a firebase account (sd17d, vv18d)
-4. Added files needed to connect to Database
-5. Made a log in page
+4. Added files needed to connect to Database (sd17d, vv18d)
+5. Made a log in page (sd17d, vv18d)
 
 ### Tasks to complete
 1. Connect login page to Database
